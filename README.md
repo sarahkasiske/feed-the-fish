@@ -1,2 +1,2 @@
-# feed-the-fish
-JavaScript
+# Feed The Fish
+JavaScript Game
